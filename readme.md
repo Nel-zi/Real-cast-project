@@ -147,9 +147,10 @@ Real-cast/
 
 1. **Fork & Clone** this repo:
    ```bash
+   git clone [https://github.com/Nel-zi/Real-cast-project cd Real-cast]
    ```
 
-git clone [https://github.com/Nel-zi/Real-cast-project cd Real-cast]
+
 
 ````
 
@@ -162,9 +163,8 @@ source .venv/bin/activate   # macOS/Linux
 
 3. **Install** dependencies:
    ```bash
-   ```
-
-pip install -r requirements.txt
+   pip install -r requirements.txt
+   ``` 
 
 ````
 
@@ -185,9 +185,8 @@ DB_PORT="5432"
 7. **Run** the pipeline:
 
    ```bash
-   ```
-
-python load.py
+   python load.py
+   ``` 
 
 ```
 
